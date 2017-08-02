@@ -1,7 +1,9 @@
-package com.deltadax.views_example;
+package com.deltadax.views_example.activity;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.deltadax.views_example.R;
 
 /**
  * Activity donde implementaremos Linear layout para crear un formulario sencillo
