@@ -11,4 +11,6 @@
     <string name="tag_contrase_a">Contraseña:</string>
     <string name="contrase_a">Contraseña</string>
     <string name="aceptar">Aceptar</string>
+    <string name="other_activty_tag">RecyclerView</string>
+    <string name="imagen">Imagen</string>
 </resources>

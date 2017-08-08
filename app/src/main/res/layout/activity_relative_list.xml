@@ -8,6 +8,7 @@
     tools:context="com.deltadax.views_example.activity.RecycleListActivity">
 
     <android.support.v7.widget.RecyclerView
+        android:id="@+id/recylcer"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
 
